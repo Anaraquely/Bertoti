@@ -16,3 +16,7 @@ _TRADUÇÃO: No Google, às vezes dizemos: “A engenharia de software é a prog
 A engenharia de software vai alem de apenas programação. Ela deve ser desenvolvida pensando no momento e pós criação do software, para que o programa seja apto a atualizar, e se não, que seja maleavel a mudanças
 
 # ATIVIDADE 3 - 18/08/2023
+
+# ATIVIDADE 4 - 21/08/2023
+![image](https://github.com/Anaraquely/Bertoti/assets/127275110/d653bbe8-4a3f-46e6-b41f-248a1ece60fe)
+
