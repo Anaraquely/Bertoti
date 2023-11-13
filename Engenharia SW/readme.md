@@ -5,7 +5,10 @@ We see three critical differences between programming and software engineering: 
 
 _TRADUÇÃO: Vemos três diferenças críticas entre programação e engenharia de software: tempo, escala e as compensações em jogo. Em um projeto de engenharia de software, os engenheiros precisam se preocupar mais com a passagem do tempo e com a eventual necessidade de mudanças. Em uma organização de engenharia de software, precisamos nos preocupar mais com escala e eficiência, tanto para o software que produzimos quanto para a organização que o está produzindo. Por fim, como engenheiros de software, somos solicitados a tomar decisões mais complexas com resultados de alto risco, muitas vezes com base em estimativas imprecisas de tempo e crescimento._
 
-A engenharia de software se preocupa em como aquilo vai "servir" pelo tempo, como a compatibilidasde/portabilidade, escalabilidade e eficiencia.
+As três diferenças críticas entre programação e engenharia de software destacadas no texto são:
+Tempo: a programação é frequentemente vista como uma atividade de curto prazo, com foco na implementação de requisitos específicos. A engenharia de software, por outro lado, é uma atividade de longo prazo, que exige a consideração da evolução do software ao longo do tempo.
+Escala: a programação geralmente envolve a criação de sistemas de software de pequeno a médio porte. A engenharia de software, por outro lado, pode envolver a criação de sistemas de software de grande porte, que precisam ser capazes de lidar com grandes volumes de dados e usuários.
+Compensações: a programação muitas vezes se concentra na implementação de uma solução que atende aos requisitos específicos. A engenharia de software, por outro lado, exige a consideração de uma série de fatores, incluindo requisitos, custos, cronogramas e riscos.
 
 # ATIVIDADE 2 - 14/08/2023
   
@@ -13,9 +16,55 @@ A engenharia de software se preocupa em como aquilo vai "servir" pelo tempo, com
  
 _TRADUÇÃO: No Google, às vezes dizemos: “A engenharia de software é a programação integrada ao longo do tempo”. A programação é certamente uma parte significativa da engenharia de software: afinal, a programação é como você gera um novo software em primeiro lugar. Se você aceitar essa distinção, também ficará claro que talvez seja necessário delinear entre tarefas de programação (desenvolvimento) e tarefas de engenharia de software (desenvolvimento, modificação, manutenção). A adição de tempo adiciona uma nova dimensão importante à programação. Cubos não são quadrados, distância não é velocidade. Engenharia de software não é programação._
 
-A engenharia de software vai alem de apenas programação. Ela deve ser desenvolvida pensando no momento e pós criação do software, para que o programa seja apto a atualizar, e se não, que seja maleavel a mudanças
+A programação é certamente uma parte significativa da engenharia de software. Afinal, a programação é como você gera um novo software. No entanto, a programação é apenas uma parte do processo de engenharia de software. A engenharia de software também inclui atividades como análise de requisitos, projeto de arquitetura, gerenciamento de projetos e testes.
+
+TRADE-OFF (3 Exemplos) - Perdas e ganhos:
+Qualidade x custo: um produto de alta qualidade geralmente é mais caro do que um produto de baixa qualidade.
+Velocidade x precisão: um projeto que é concluído rapidamente geralmente não é tão preciso quanto um projeto que é concluído com mais cuidado.
+Eficiência x flexibilidade: um sistema eficiente geralmente não é tão flexível quanto um sistema flexível.
 
 # ATIVIDADE 3 - 18/08/2023
+10 Heurísticas de Usabilidade - 1 Erro e 1 Acerto
+1 - Visibilidade do status do sistema
+Erro: Mensagem de erro que é muito vaga ou difícil de entender.
+Acerto: Uso de simbolos intuitivos 
+
+2 - Correspondência entre o sistema e o mundo real
+Erro: 
+Acerto:
+
+3 - Controle e liberdade do usuário
+Erro: 
+Acerto:
+
+4 - Consistência e padrões
+Erro: 
+Acerto:
+
+5 - Prevenção de erros
+Erro: 
+Acerto:
+
+6 - Reconhecimento em vez de lembrança
+Erro: 
+Acerto:
+
+7 - Flexibilidade e eficiência de uso
+Erro: 
+Acerto:
+
+8 - Design estético e minimalista
+Erro: 
+Acerto:
+
+9 - Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros
+Erro: 
+Acerto:
+
+10 - Ajuda e documentação
+Erro: 
+Acerto:
+
 
 # ATIVIDADE 4 - 21/08/2023
 ![image](https://github.com/Anaraquely/Bertoti/assets/127275110/d653bbe8-4a3f-46e6-b41f-248a1ece60fe)
