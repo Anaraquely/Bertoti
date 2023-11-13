@@ -19,50 +19,83 @@ _TRADUÇÃO: No Google, às vezes dizemos: “A engenharia de software é a prog
 A programação é certamente uma parte significativa da engenharia de software. Afinal, a programação é como você gera um novo software. No entanto, a programação é apenas uma parte do processo de engenharia de software. A engenharia de software também inclui atividades como análise de requisitos, projeto de arquitetura, gerenciamento de projetos e testes.
 
 TRADE-OFF (3 Exemplos) - Perdas e ganhos:
+
 Qualidade x custo: um produto de alta qualidade geralmente é mais caro do que um produto de baixa qualidade.
+
 Velocidade x precisão: um projeto que é concluído rapidamente geralmente não é tão preciso quanto um projeto que é concluído com mais cuidado.
+
 Eficiência x flexibilidade: um sistema eficiente geralmente não é tão flexível quanto um sistema flexível.
 
 # ATIVIDADE 3 - 18/08/2023
 10 Heurísticas de Usabilidade - 1 Erro e 1 Acerto
+
 1 - Visibilidade do status do sistema
+
 Erro: Mensagem de erro que é muito vaga ou difícil de entender.
+
 Acerto: Uso de simbolos intuitivos 
 
+
 2 - Correspondência entre o sistema e o mundo real
+
 Erro: 
+
 Acerto:
+
 
 3 - Controle e liberdade do usuário
+
 Erro: 
+
 Acerto:
+
 
 4 - Consistência e padrões
+
 Erro: 
+
 Acerto:
+
 
 5 - Prevenção de erros
+
 Erro: 
+
 Acerto:
+
 
 6 - Reconhecimento em vez de lembrança
+
 Erro: 
+
 Acerto:
+
 
 7 - Flexibilidade e eficiência de uso
+
 Erro: 
+
 Acerto:
+
 
 8 - Design estético e minimalista
+
 Erro: 
+
 Acerto:
+
 
 9 - Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros
+
 Erro: 
+
 Acerto:
 
+
 10 - Ajuda e documentação
+
 Erro: 
+
 Acerto:
 
 
