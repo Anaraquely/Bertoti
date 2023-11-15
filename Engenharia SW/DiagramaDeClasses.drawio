@@ -10,10 +10,10 @@
         <mxCell id="vCYvUYp7LnwnH7nSYbP1-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="290" y="40" width="480" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="vCYvUYp7LnwnH7nSYbP1-5" value="Fazer Pedido&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="vCYvUYp7LnwnH7nSYbP1-5" value="Adicionar Produto&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="330" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vCYvUYp7LnwnH7nSYbP1-6" value="Verificar Pedido" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="vCYvUYp7LnwnH7nSYbP1-6" value="Verificar Produto" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="330" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vCYvUYp7LnwnH7nSYbP1-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="vCYvUYp7LnwnH7nSYbP1-7" target="vCYvUYp7LnwnH7nSYbP1-16">
@@ -24,7 +24,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vCYvUYp7LnwnH7nSYbP1-7" value="Cancelar Pedido" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="vCYvUYp7LnwnH7nSYbP1-7" value="Cancelar Produto" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="330" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vCYvUYp7LnwnH7nSYbP1-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vCYvUYp7LnwnH7nSYbP1-8" target="vCYvUYp7LnwnH7nSYbP1-9">
@@ -45,7 +45,7 @@
         <mxCell id="vCYvUYp7LnwnH7nSYbP1-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vCYvUYp7LnwnH7nSYbP1-1" target="vCYvUYp7LnwnH7nSYbP1-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vCYvUYp7LnwnH7nSYbP1-16" value="Procura Pedido" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="vCYvUYp7LnwnH7nSYbP1-16" value="Procura Produto" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="560" y="190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vCYvUYp7LnwnH7nSYbP1-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=classic;endFill=1;entryX=0.987;entryY=0.657;entryDx=0;entryDy=0;startArrow=none;startFill=0;entryPerimeter=0;" edge="1" parent="1" source="vCYvUYp7LnwnH7nSYbP1-17" target="vCYvUYp7LnwnH7nSYbP1-5">
