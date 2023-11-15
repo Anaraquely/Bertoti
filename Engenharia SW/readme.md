@@ -99,6 +99,15 @@ Erro:
 Acerto:
 
 
-# ATIVIDADE 4 - 21/08/2023
-![image](https://github.com/Anaraquely/Bertoti/assets/127275110/d653bbe8-4a3f-46e6-b41f-248a1ece60fe)
+# ATIVIDADE 4 - 21/08/2023 - 13/11/2023
+
+Diagrama UML
+
+![Diagramauml](https://github.com/Anaraquely/Bertoti/assets/127275110/7bc83b8a-cf20-4632-aacb-fb458bd4c70f)
+
+Diagrama de Classes 
+
+![Imagem do WhatsApp de 2023-11-15 à(s) 19 20 48_4551f028](https://github.com/Anaraquely/Bertoti/assets/127275110/21d94cb7-ff4a-4df2-a371-16aa0bc599ac)
+
+
 
