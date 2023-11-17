@@ -11,10 +11,9 @@ import junit.framework.Assert;
 
 class Teste {
 
-	@Target
 	public void test() {
 		Pedido pedido = new Pedido();
-		assertEquals(pedido.getProdutos().size());
+		assertEquals(pedido.getProdutos().size(), 0);
 
 		pedido.addProduto(new Produto("Jaqueta", 5, new Detalhe("Preta", "M", "Nike")));
 		pedido.addProduto(new Produto("Blusa", 2, new Detalhe("Rosa", "P", "Adidas")));
@@ -24,7 +23,7 @@ class Teste {
 		List<Produto> produtosEncontrados = pedido.verificarProduto(new Detalhe("Preta", "M", "Nike"));
 		assertEquals(produtosEncontrados.get(0).getDetalhe().getTamanho(), "M");
 		
-		List<Produtos> produtosEnList = pedido.cancelarProduto(new Detalhe("Rosa", "P", "Adidas"));
+		List<Produto> produtosEnList = pedido.cancelarProduto(new Detalhe("Rosa", "P", "Adidas"));
 		assertEquals(0, pedido.getProdutos().size());
 	}
 

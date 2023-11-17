@@ -16,9 +16,10 @@ public class Pedido {
 		}
 		return produtosEncontrados;
 	}
-	public void cancelarProduto(Produto produto) {
-		int indice = produtos.indexOf(produto);
+	public List<Produto> cancelarProduto(Detalhe det) {
+		int indice = produtos.indexOf(det);
 		produtos.remove(indice);
+		return produtos;
 		
 	}
 	public List<Produto> getProdutos(){
