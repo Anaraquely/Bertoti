@@ -1,4 +1,4 @@
-package entidades;
+package Classes;
 
 public class Cliente {
 	private String nome_Cliente;

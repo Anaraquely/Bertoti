@@ -1,4 +1,4 @@
-package entidades;
+package Classes;
 
 public class Produto {
 	private String nome_Produto; 

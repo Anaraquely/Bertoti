@@ -1,4 +1,4 @@
-package entidades;
+package Classes;
 
 public class Detalhe {
 	private String corPeca;

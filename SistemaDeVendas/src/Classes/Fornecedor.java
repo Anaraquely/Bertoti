@@ -1,4 +1,4 @@
-package entidades;
+package Classes;
 
 public class Fornecedor {
 	private String nome_Fornecedor;
