@@ -31,7 +31,12 @@ Eficiência x flexibilidade: um sistema eficiente geralmente não é tão flexí
 
 1 - Visibilidade do status do sistema
 
+
+![image](https://github.com/Anaraquely/Bertoti/assets/127275110/f317cba7-596b-4993-8365-6521ba6b63ab)
+
 Erro: Mensagem de erro que é muito vaga ou difícil de entender.
+
+![Status do Sistema](https://github.com/Anaraquely/Bertoti/assets/127275110/b929e6aa-4d2f-4ba8-b845-c86382324ce5)
 
 Acerto: Uso de simbolos intuitivos 
 
@@ -103,7 +108,8 @@ Acerto:
 
 Diagrama UML
 
-![Diagramauml](https://github.com/Anaraquely/Bertoti/assets/127275110/7bc83b8a-cf20-4632-aacb-fb458bd4c70f)
+![Captura de tela 2023-11-30 191126](https://github.com/Anaraquely/Bertoti/assets/127275110/49d1b3a9-dcac-4ec5-914f-23252833fed8)
+
 
 Diagrama de Classes 
 
