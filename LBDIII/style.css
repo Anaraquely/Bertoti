@@ -1,0 +1,29 @@
+body {
+    background-color: pink;
+}
+
+.titulo {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+.livros {
+    display: flex;
+    justify-content: center;
+    border: solid 1px;
+    height: 300px;
+}
+
+.livros2 {
+    justify-content: center;
+    border: solid 1px;
+    margin: 30px;
+    width: 300px;
+}
+
+.botoes {
+    display: flex;
+    padding: 30px;
+    justify-content: space-around;
+}

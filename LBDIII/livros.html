@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="vue.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>livros</title>
+
+</head>
+
+<body>
+    <div id="app">
+        <p class="titulo">Livros</p>
+        <div class="livros">
+            <div class="livros2">
+                teste
+            </div>
+            <div class="livros2">
+                teste
+            </div>
+            <div class="livros2">
+                teste
+            </div>
+        </div>
+        <div class="botoes">
+            <button @click="atualizar()">Atualizar</button>
+            <button @click="deletar()">Deletar</button>
+            <button @click="adicionar()">Adicionar</button>
+        </div>
+    </div>
+
+    <script>
+        const app = new Vue({
+            el: "#app",
+            data: {},
+            methods: {
+                atualizar() {
+                    fetch('http://localhost:3000/livros')
+                        .then(response => response.json())
+                        .then(data => {
+                            console.log(data)
+                        })
+                },
+                deletar() {
+                    fetch('http://localhost:3000/livros/1', {
+                        method: 'DELETE'
+                    })
+                        .then(response => response.json())
+                        .then(data => {
+                            console.log(data)
+                        })
+                },
+                adicionar() {
+                    fetch('http://localhost:3000/livros', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({
+                            titulo: 'teste',
+                            autor: 'teste',
+                            ano: 2020
+                        })
+                    })
+                        .then(response => response.json())
+                        .then(data => {
+                            console.log(data)
+                        })
+                }
+            }
+        })
+
+    </script>
+
+</body>
+
+</html>
